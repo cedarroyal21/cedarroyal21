@@ -1,16 +1,20 @@
 ## Hi there 👋
 
 <!--
-**cedarroyal21/cedarroyal21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Salut, je suis Cedrik !
 
-Here are some ideas to get you started:
+🚀 **Étudiant en Cybersécurité | Développeur Web | Hacker Éthique**  
+🎯 Passionné par **la Cybersécurité, le Développement Web et le Hacking Éthique**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 À propos de moi  
+- 🎓 **Étudiant à l'Université de Yaoundé 1**, spécialisé en **Cybersécurité** 🛡️
+- 🌍 Basé à **Yaoundé, Cameroun**
+- 💻 Passionné par **C, JavaScript, HTML, CSS et les Réseaux**
+- 🌱 Actuellement en train de travailler sur **CYBERSHIELD**, un projet visant à lutter contre la cybercriminalité au Cameroun
+- 🚀 Création d'une **chaîne de motivation WhatsApp** pour inspirer et inciter à l'action 💡
+- 📖 En apprentissage constant du **Développement Web** pour améliorer mes compétences 💡
+
+---
+
