@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">My name is cedrk darel yepmo and I'm a cameroonian citizen from yaounde town .</h2>
+<h2 align="left">My name is cedrik darel yepmo and I'm a cameroonian citizen from yaounde town .</h2>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">I code with vs code for now</h2>
+<h2 align="left">I code with css,html now</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h4 align="left">I think that noting is impossible as long as there is work and determination . my favorite quote is from THOMA SANKARA : "Where we surrender we are immediately defeated but where we resist ,we acn win ."</h4>
+<h4 align="left">I think that noting is impossible as long as there is work and determination . my favorite quote is from THOMA SANKARA : "Where we surrender we are immediately defeated but where we resist ,we can win ."</h4>
 
 ###
 <!--
