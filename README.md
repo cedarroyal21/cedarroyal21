@@ -51,6 +51,8 @@
 <h4 align="left">I think that noting is impossible as long as there is work and determination . my favorite quote is from THOMA SANKARA : "Where we surrender we are immediately defeated but where we resist ,we can win ."</h4>
 
 ###
+
+
 <!--
 # 👋 Salut, je suis Cedrik !
 
